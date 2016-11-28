@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/particle.png</file>
+    </qresource>
+</RCC>

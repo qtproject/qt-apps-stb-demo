@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="fonts/TitilliumWeb-Bold.ttf">shared/fonts/TitilliumWeb-Bold.ttf</file>
+        <file alias="fonts/TitilliumWeb-Italic.ttf">shared/fonts/TitilliumWeb-Italic.ttf</file>
+        <file alias="fonts/TitilliumWeb-Regular.ttf">shared/fonts/TitilliumWeb-Regular.ttf</file>
+        <file alias="fonts/fontawesome-webfont.ttf">shared/fonts/fontawesome-webfont.ttf</file>
+        <file alias="qml/controls/TvRemoteInputArea.qml">shared/qml/TvRemoteInputArea.qml</file>
+        <file alias="qml/controls/TvRemoteInputMethod.qml">shared/qml/TvRemoteInputMethod.qml</file>
+        <file alias="qml/components/Time.qml">shared/qml/Time.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,18 @@
+# Set-top box demo
+
+This demo shows a simple set-top box style interface with the ability to
+browse films and watch trailers, browse the web, and access HbbTV content.
+
+## Compiling
+
+Prerequisites:
+
+* Qt 5.8.0 or later
+* Qt WebEngine module for web browsing (optional)
+* Qt WebKit module for HbbTV support (optional)
+
+The demo also requires API keys for accessing YouTube and TMDb. Hardcoded keys
+are provided via a QML file in a Git submodule which is accessible only to
+The Qt Company. If the file is not present, users will be prompted to enter
+API keys via an in-app Settings menu, which will be persisted to the device's
+local settings store.

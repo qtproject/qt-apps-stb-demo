@@ -1,0 +1,10 @@
+{
+    "Id": "youtubeclient",
+    "Name": "YoutubeClientV3",
+    "QDocModule": "-",
+    "QtUsage": "Used in set top box demo.",
+    "License": "BSD 3-clause \"New\" or \"Revised\" License",
+    "LicenseId": "BSD-3-Clause",
+    "LicenseFile": "YoutubeClientV3-License.txt",
+    "Copyright": "Copyright (c) 2014 Peter Tworek"
+}

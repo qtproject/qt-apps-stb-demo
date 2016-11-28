@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>secrets/YouTube.qml</file>
+        <file>secrets/TMDb.qml</file>
+    </qresource>
+</RCC>

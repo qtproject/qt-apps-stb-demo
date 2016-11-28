@@ -1,0 +1,7 @@
+[submodule "secrets"]
+	path = secrets
+	url = ../tqtc-demo-secrets.git
+	update = none
+[submodule "assets/shared"]
+	path = assets/shared
+	url = ../demo-assets.git
