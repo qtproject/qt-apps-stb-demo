@@ -13,6 +13,8 @@ Project {
             productTypes: ["android.nativelibrary"]
             limitToSubProject: true
         }
+
+        manifestFile: sourceDirectory + "/android/AndroidManifest.xml"
     }
 
     QtGuiApplication {
