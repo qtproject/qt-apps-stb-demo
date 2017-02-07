@@ -29,7 +29,7 @@ Project {
 
         Properties {
             condition: qbs.targetOS.contains("android")
-            architectures: ["x86", "armv7"]
+            architectures: !qbs.architecture ? ["x86", "armv7a"] : undefined
             Android.ndk.appStl: "gnustl_shared"
         }
 
